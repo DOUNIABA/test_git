@@ -1,5 +1,17 @@
-les commandes git:
 
+1-Git est un protocole de systeme de controle 
+github est une platforme de Git
+2-en Git on peut enregistrer les modifications et créer plrs versions d'un projet
+3-Git est UTIL pour une équipe de developpeurs pour qu'ils puissent travailler sur le meme projet en meme temps.
+
+
+
+  bitbucket sible les entreprises qui utilise les repo prive.
+  github sible les project opensource qui utilise les repo public.
+
+
+
+les commandes git:
 
 git init (pour initialiser un repo)
 
